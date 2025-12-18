@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm Owen Leow, a Computer Science Student. 
 
+I'm new here and currently learning how to code....
+
+**FUN FACT:**
+- Hobbies: Volleyball, Running
 <!--
 **Legendottor/Legendottor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
